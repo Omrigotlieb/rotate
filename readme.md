@@ -1,6 +1,6 @@
 # Kickstart 2017 - github rotate repository
 
-[![N|Solid](http://downdetector.com/i/logo/Wix-Logo.png)](http://www.wixkickstart.com/)
+<img src="http://downdetector.com/i/logo/Wix-Logo.png" alt="Drawing" style="width: 200px;"/>
 
 # Our github experiment!
   - Rotate project
